@@ -71,4 +71,5 @@ Finally, I tried to compile a table to compare costs of usage of all listed opti
 
 ### Source of inspiration and Image sources:
 [https://cloudplatform.googleblog.com/2015/05/introducing-Google-Cloud-Bigtable.html](https://cloudplatform.googleblog.com/2015/05/introducing-Google-Cloud-Bigtable.html)
+
 Cloud Architecture with Google Cloud Professional Certificate Course
